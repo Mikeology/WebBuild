@@ -1,4 +1,6 @@
 h1 {color: red;
  }
- p{background
+ body {
+  background-image url ("http://cdn.images.express.co.uk/img/dynamic/11/590x/troops-397147.jpg");
+  background-repeat: no-repeat;
  }
