@@ -1,6 +1,19 @@
-h1 {color: red;
- }
- body {
-  background-image url ("http://cdn.images.express.co.uk/img/dynamic/11/590x/troops-397147.jpg");
-  background-repeat: no-repeat;
- }
+body {
+background-image: url("Lighthouse.jpg");
+background-repeat: no-repeat;
+background-size: 100%
+
+}
+
+div.test {background-color: red;
+opacity: 0.1;
+}
+
+div. test p {
+color: green;
+opacity: 0.9;
+}
+
+iframe {
+ padding: 25%;
+}
